@@ -19,3 +19,10 @@ In this tutorial we will query the SQL Server database AdventureWorksDW2017 with
 python. We will do this by using [pyodbc](https://pypi.org/project/pyodbc/)
 which is an open source Python module that makes accessing ODBC databases very
 simple.
+
+
+# AW-3: Creating a HR Power BI report with dynamic measures
+
+In this tutorial we will create a simple Power BI report for HR using dynamic
+measures. As mentioned in previous posts in this series, we are using the
+Adventure Works sample databases AdventureWorks2017 and AdventureWorksDW2017.
