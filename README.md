@@ -21,7 +21,7 @@ which is an open source Python module that makes accessing ODBC databases very
 simple.
 
 
-# AW-3: Creating a HR Power BI report with dynamic measures
+## AW-3: Creating a HR Power BI report with dynamic measures
 
 In this tutorial we will create a simple Power BI report for HR using dynamic
 measures. As mentioned in previous posts in this series, we are using the
